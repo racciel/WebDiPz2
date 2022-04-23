@@ -8,7 +8,7 @@
     <meta name="author" content="Andreas Leja">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/aleja.css">
-    <title>Navigacijski</title>
+    <title>ERA</title>
 </head>
     <body id="tijelo">
         <header id="zaglavlje">
@@ -17,7 +17,7 @@
             <a href="#tijelo">
                 
                 <div class="naslov">
-                    <h1>Navigacijski</h1>
+                    <h1>ERA</h1>
                 </div>
                 
             </a>
